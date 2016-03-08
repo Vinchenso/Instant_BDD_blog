@@ -1,7 +1,3 @@
-Given(/^I am on the blog homepage$/) do
-  visit("/posts")
-end
-
 When(/^I click "([^"]*)" link$/) do |arg1|
   click_on arg1
 end
