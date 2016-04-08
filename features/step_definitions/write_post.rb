@@ -16,7 +16,7 @@ When(/^I click "([^"]*)" button$/) do |btn|
 end
 
 Then(/^I should see the blog I just posted$/) do
-  page.has_content(@title)
+  page.has_content?(@title)
 end
 
 
