@@ -19,4 +19,5 @@ Then(/^I should see the blog I just posted$/) do
   page.has_content?(@title)
 end
 
+#I did it
 
