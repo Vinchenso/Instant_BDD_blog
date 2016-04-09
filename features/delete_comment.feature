@@ -8,4 +8,3 @@ Feature: Delete Comment
     When I am on the post page
     And I click "Delete Comment"
     Then the comment should be deleted
-  

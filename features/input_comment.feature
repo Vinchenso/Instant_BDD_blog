@@ -9,5 +9,4 @@ Feature: Input comment
       |Name  |Email             |Content            |
       |Wayne |admin@wayneye.com |Test comment       |
     Then I can see the comment has been added onto the post
-    Then the heavens open
 

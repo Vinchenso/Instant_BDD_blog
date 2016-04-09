@@ -1,7 +1,3 @@
-Given(/^there is a post titled with "([^"]*)" and content with "([^"]*)"$/) do |arg1, arg2|
-    pending # Write code here that turns the phrase above into concrete actions
-end
-
 Given(/^I am on the post page$/) do
     pending # Write code here that turns the phrase above into concrete actions
 end
